@@ -21,7 +21,7 @@ $(function () {
 });
 $(function () {
     $(".typed").typed({
-        strings: ["Sonya", "$uicideboy$ 💙","16 y.o","Best Girl","Life is beautiful" ],
+        strings: ["Sonya", "$uicideboy$ 💙","16 y.o","Best Girl","Life is beautiful","Mem pizdec" ],
         typeSpeed: 25,
         backSpeed: 0,
         cursorChar: ['❚'],
